@@ -4,3 +4,5 @@
 	distplay the contents list of your current directory
 # 2-bring_me_home
 	change your working directory to your home directory
+# 3-listfiles
+	display current directory contents in long format
