@@ -6,3 +6,5 @@
 	change your working directory to your home directory
 # 3-listfiles
 	display current directory contents in long format
+# 4-listmorefiles
+	display current directory contents in long format including hidding files
