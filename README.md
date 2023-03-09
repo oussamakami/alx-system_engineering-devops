@@ -22,3 +22,5 @@
 >	changes the working directory to the previous one.
 # 11-lists
 >	prints all files in the current and parent directory and /boot in long format
+# 12-file_type
+> prints the type of the file /tmp/iamafile
