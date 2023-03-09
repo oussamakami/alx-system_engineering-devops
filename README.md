@@ -10,3 +10,5 @@
 >	display current directory contents in long format including hidding files
 # 5-listfilesdigitonly
 >	like **4-listmorefiles** but replaces the user and the group with their IDs
+# 6-firstdirectory
+	create a directory called **my_first_directory** in /tmp
