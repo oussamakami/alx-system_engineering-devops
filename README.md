@@ -34,3 +34,5 @@
 >	delete all files in the current directory that end with ~
 # 102-tree
 >	create the directories welcome/to/School in the current directory
+# 103-commas
+>	list all files separated by commas and sorted also the directories end with a /
