@@ -16,3 +16,9 @@
 >	Move the file betty from /tmp/ to /tmp/my_first_directory
 # 8-firstdelete
 >	delete the file betty from /tmp/my_first_directory
+# 9-firstdirdeletion
+>	delete the directory /tmp/my_first_directory
+# 10-back
+>	changes the working directory to the previous one.
+# 11-lists
+>	prints all files in the current and parent directory and /boot in long format
